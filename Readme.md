@@ -1,10 +1,10 @@
-# Análise de Testes e Rompimentos do Mini-Índice
+## Análise de Testes e Rompimentos do Mini-Índice
 Novo PDF sendo desenvolvido. Apresenta os meta-dados de testes e rompimentos do míni-índice (WIN$N) a fim de evidenciar padrões ocultos no swing-trade e encontrar boas oportunidades de entradas.
 
-# Análise Probabilística do Mini-Índice
+## Análise Probabilística do Mini-Índice
 Principal PDF desenvolvido. Estuda os metadados do míni-índice (WIN$N) a fim de evidenciar padrões ocultos e encontrar oportunidades fovoráveis de negociações intradiárias.
 
-# Backtests
+## Backtests
 Alguns modelos de backtests em fase preliminar.
 
 ## Database
