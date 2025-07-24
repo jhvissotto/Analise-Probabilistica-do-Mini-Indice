@@ -8,7 +8,7 @@ Novo PDF sendo desenvolvido. Apresenta os meta-dados de testes e rompimentos do 
 Alguns modelos de backtests em fase preliminar.
 
 ## Database
-Principal base de dados obtidas de providers compartilhada entre todos os estudos. 
+Principal base de dados obtidas de diferentes providers e compartilhada entre todos os estudos. 
 
 ## Historical Performance
 Apresenta graficamente a cotação histórica dos ativos (principalmente o míni-índice) a fim de visualizar e aferir os dados históricos que estão sendo consumidos pelas análises.
