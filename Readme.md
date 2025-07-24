@@ -2,7 +2,7 @@
 Novo PDF sendo desenvolvido. Apresenta os meta-dados de testes e rompimentos do míni-índice (WIN$N) a fim de evidenciar padrões ocultos no swing-trade e encontrar boas oportunidades de entradas.
 
 # Análise Probabilística do Mini-Índice
-Principal PDF desenvolvido. Estuda os metadados do míni-índice (WIN$N) a fim de evidenciar padrões ocultos e encontrar boas oportunidades de negociações intradiárias.
+Principal PDF desenvolvido. Estuda os metadados do míni-índice (WIN$N) a fim de evidenciar padrões ocultos e encontrar oportunidades fovoráveis de negociações intradiárias.
 
 # Backtests
 Alguns modelos de backtests em fase preliminar.
