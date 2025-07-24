@@ -1,5 +1,5 @@
 # Análise Probabilística do Mini-Índice
-Principal PDF desenvolvido. Estuda os metadados do míni-índice (WIN$N) a fim de evidenciar padrões ocultos e encontrar boas oportunidades de negociações intradiárias. Segue abaixo a lista de tópicos desenvolvidos: 
+Principal PDF desenvolvido. Estuda os metadados do míni-índice (WIN$N) a fim de evidenciar padrões ocultos e encontrar oportunidades favoráveis de negociações intradiárias. Segue abaixo a lista de tópicos desenvolvidos: 
 
 
 ### PERFORMANCE HISTÓRICA
