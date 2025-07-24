@@ -4,18 +4,18 @@ Novo PDF sendo desenvolvido. Apresenta os meta-dados de testes e rompimentos do 
 
 ## Por Dias Positivos
 - Comportamento da Abertura
-- Dias de inside
-- Testes de máximas/mínimas
-- Rompimento e fechamento acima da máxima ou abaixo da Mínima
+- Dias de Inside
+- Testes de Máximas/Mínimas
+- Rompimento e Fechamento Acima ou Abaixo dos Limites Anterior
 
 ## Por Dias Negativos
 - Comportamento da Abertura
-- Dias de inside
-- Testes de máximas/mínimas
-- Rompimento e fechamento acima da máxima ou abaixo da Mínima
+- Dias de Inside
+- Testes de Máximas/Mínimas
+- Rompimento e Fechamento Acima ou Abaixo dos Limites Anterior
 
 ## Por Variações
 - Comportamento da Abertura
-- Dias de inside
-- Testes de máximas/mínimas
-- Rompimento e fechamento acima da máxima ou abaixo da Mínima
+- Dias de Inside
+- Testes de Máximas/Mínimas
+- Rompimento e Fechamento Acima ou Abaixo dos Limites Anterior
