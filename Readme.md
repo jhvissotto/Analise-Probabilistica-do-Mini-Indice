@@ -5,7 +5,7 @@ Principal PDF desenvolvido. Estuda os metadados do míni-índice (WIN$N) a fim d
 Novo PDF sendo desenvolvido. Apresenta os meta-dados de testes e rompimentos do míni-índice (WIN$N) a fim de evidenciar padrões ocultos no swing-trade e encontrar oportunidades favoráveis de entradas.
 
 ## Backtests
-Alguns modelos de backtests em fase preliminar.
+Resultados das estratégias de backtests variando alguns parâmetros.
 
 ## Database
 Principal base de dados obtidas de diferentes providers e compartilhada entre todos os estudos. 
